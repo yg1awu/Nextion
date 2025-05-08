@@ -1,0 +1,319 @@
+RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
+9100001,91KMEGG,Gilang,Gumilar,Tasikmalaya,Jawa Barat,Indonesia
+9100002,91KMEKS,Asep,Samsul,Tasikmalaya,Jawa Barat,Indonesia
+9100003,91KMUDN (A),Japar,Sidik,Tasikmalaya,Jawa Barat,Indonesia
+9100004,91KMACB,Asep,,Tasikmalaya,Jawa Barat,Indonesia
+9100005,91KMASD,Asdan,,Tasikmalaya,Jawa Barat,Indonesia
+9100006,91KMEDC,Dadang,,Tasikmalaya,Jawa Barat,Indonesia
+9100007,91KMADR,Andi,Rahman,Tasikmalaya,Jawa Barat,Indonesia
+9100008,91KMEBB,Deni,Maulana,Tasikmalaya,Jawa Barat,Indonesia
+9100009,91KMEBQ,Ismat,Rahmat,Tasikmalaya,Jawa Barat,Indonesia
+9100010,91KMEJU,Maulana,Yusuf,Tasikmalaya,Jawa Barat,Indonesia
+9100011,91KMEKB,Engkar,Bachtiar,Tasikmalaya,Jawa Barat,Indonesia
+9100012,91KMEUK,Undang,Kamaludin,Tasikmalaya,Jawa Barat,Indonesia
+9100013,91KMEOO (A),Oo,Sofyan,Tasikmalaya,Jawa Barat,Indonesia
+9100014,91KMEGQ (A),Entin,Sumartini,Tasikmalaya,Jawa Barat,Indonesia
+9100015,91KMEDT (A),Ai,Junaedi,Tasikmalaya,Jawa Barat,Indonesia
+9100016,91KMSPN,Sumpeno,,Padang Sidempuan,Sumatera Utara,Indonesia
+9100017,91KMLLB,Hadiyanto,,Bekasi,Jawa Barat,Indonesia
+9100018,91KMAXR,Purnama,,Tasikmalaya,Jawa Barat,Indonesia
+9100019,91KMISO,Anwari,,Cirebon,Jawa Barat,Indonesia
+9100020,91KMAWW,Mahyul,Fata,Cilacap,Jawa Tengah,Indonesia
+9100021,91KMMEG,Indra,Sanif,Jakarta Selatan,Jakarta,Indonesia
+9100022,91KMMQU,R. Jefta,Heroe,Jakarta Utara,Jakarta,Indonesia
+9100023,91KMOGT,Yogi,,Semarang,Jawa Tengah,Indonesia
+9100024,91KMBBB,M. Fahriannor,,Banjarmasin,Kalimantan Selat,Indonesia
+9100025,91KMOPG,Sayuti,Melik,Semarang,Jawa Tengah,Indonesia
+9100026,91KMAHU,Johan,Gozali,Pekanbaru,Riau,Indonesia
+9100027,91KMCKR,Gunawan,Kosasih,Jakarta Barat,Jakarta,Indonesia
+9100028,91KMBAM,Lie,Bambang,Jakarta Barat,Jakarta,Indonesia
+9100029,91KMWIR,Wirakta,Kancana,Jakarta Pusat,Jakarta,Indonesia
+9100030,91KMBIS,Beni,Ismail,Ciamis,Jawa Barat,Indonesia
+9100031,91KMDRS,Ignatius,Dradjat,Magelang,Jawa Tengah,Indonesia
+9100032,91KNDNY,Stefanus,Dandy,Magelang,Jawa Tengah,Indonesia
+9100033,91KMTYO,Suharmantyo,,Surakarta,Jawa Tengah,Indonesia
+9100034,91KMKIE,Hengky,,Bangka,Kepulauan Bangka,Indonesia
+9100035,91KMSWM,Wang,Harto,Mataram,Nusa Tenggara Ba,Indonesia
+9100036,91KMYSS,Yakobus,Sulistyo,Jakarta Pusat,Jakarta,Indonesia
+9100037,91KMEMY (A),Dhanyar,Windharm,Toba,Sumatera Utara,Indonesia
+9100038,91KMKAA,Hanafi,Handoko,Jakarta Timur,Jakarta,Indonesia
+9100039,91KMWAK,Abu,Sofyan,Langkat,Sumatera Utara,Indonesia
+9100040,91KMPPM,Geppi,Geswardo,Cimahi,Jawa Barat,Indonesia
+9100041,91KMOWG,Subroto,,Mesuji,Lampung,Indonesia
+9100042,91KMAAL (A),Matheos,Noya,Ambon,Maluku,Indonesia
+9100043,91KMEAR,Ardiansyah,,Langkat,Sumatera Utara,Indonesia
+9100044,91KMPBA,Andriani,,Sambas,Kalimantan Barat,Indonesia
+9100045,91KMNBM,Suharto,,Surabaya,Jawa Timur,Indonesia
+9100046,91KMEAB,Ali,Akbar,Langkat,Sumatera Utara,Indonesia
+9100047,91KMRJE,Y Roberth,Alfons,Semarang,Jawa Tengah,Indonesia
+9100048,91KMBAY,Bari,Naldi,Ambon,Maluku,Indonesia
+9100049,91KMBHP,Bonny,Hardi,Jakarta Pusat,Jakarta,Indonesia
+9100050,91KMAJA (A),Andi,Muhammad,Surabaya,Jawa Timur,Indonesia
+9100051,91KMFAR,Mi'Raj,Rizky,Magelang,Jawa Tengah,Indonesia
+9100052,91KMJRO,Subhan,Fajar,Bangkalan,Jawa Timur,Indonesia
+9100053,91KMDON,Sarjono,,Surabaya,Jawa Timur,Indonesia
+9100054,91KMDAZ,Ahmad,Fatoni,Mataram,Nusa Tenggara Ba,Indonesia
+9100055,91KMEPF,Ferry,,Payakumbuh,Sumatera Barat,Indonesia
+9100056,91KMKTJ,Wayan,Agro,Merauke,Papua,Indonesia
+9100057,91KMFTB (A),Bambang,Indra,Bogor,Jawa Barat,Indonesia
+9100058,91KMKLW,Hertanto,Prasety,Merauke,Papua,Indonesia
+9100059,91KMSAM,Syamsir,Alam,Bogor,Jawa Barat,Indonesia
+9100060,91KMPRA,Wahyudi,Pratama,Palangkaraya,Kalimantan Tenga,Indonesia
+9100061,91KMCWV,Firzi,Gif,Tasikmalaya,Jawa Barat,Indonesia
+9100062,91KMBLM,Agus,Wahyudi,Sampang,Jawa Timur,Indonesia
+9100063,91KMADE,Ida,Nyoman,Depok,Jawa Barat,Indonesia
+9100064,91KMEXT,Indra,Saliman,Bekasi,Jawa Barat,Indonesia
+9100065,91KMART,I Gede,Sugih,Denpasar,Bali,Indonesia
+9100066,91KMARI,Syaiful,Anshori,Banda Aceh,Aceh,Indonesia
+9100067,91KMCOZ,Hasnur,Zulfa,Aceh Utara,Aceh,Indonesia
+9100068,91KMTRI,Tri,Budi,Sorong,Papua Barat Daya,Indonesia
+9100069,91KMRAF,Betantyo,Wisnu,Bangkalan,Jawa Timur,Indonesia
+9100070,91KMAPI,Masrur,Ridwan,Ambon,Maluku,Indonesia
+9100071,91KMAMR,Amirrul,Iman,Jakarta Timur,Jakarta,Indonesia
+9100072,91KMSSG,Eriq,,Sumenep,Jawa Timur,Indonesia
+9100073,91KMAWR,Mohammad,Redy,Pamekasan,Jawa Timur,Indonesia
+9100074,91KMFIR,Firman,Hidayat,Surabaya,Jawa Timur,Indonesia
+9100075,91KMTOA,Oktalio,Wahyudi,Tangerang,Banten,Indonesia
+9100076,91KMAAM,Asep,Ahmad,Bandung Barat,Jawa Barat,Indonesia
+9100077,91KMGAC,Edy,Supriyanto,Mataram,Nusa Tenggara Ba,Indonesia
+9100078,91KMRED,Reddiyanto,Soeng,Badung,Bali,Indonesia
+9100079,91KMBAS,Agustinus,Surend,Jakarta Timur,Jakarta,Indonesia
+9100080,91KMNTX,Khairur,Raziqin,Natuna,Kepulauan Riau,Indonesia
+9100081,91KMTHE,Arintoko,Nugroho,Tangerang Selata,Banten,Indonesia
+9100082,91KMAGG,Mohamad,Ferdinan,Sorong,Papua Barat Daya,Indonesia
+9100083,91KMKZT,Fauzan,,Subang,Jawa Barat,Indonesia
+9100084,91KMBEN,Benjamin,Muliono,Cirebon,Jawa Barat,Indonesia
+9100085,91KMAMW,Agus,Pambudi,Jakarta Barat ,Jakarta,Indonesia
+9100086,91KMEXA,Millovan,Eka,Semarang,Jawa Tengah,Indonesia
+9100087,91KMAAA,Mugiono,,Pemalang,Jawa Tengah,Indonesia
+9100088,91KMBAN,Bambang,Anggoro,Sleman,Yogyakarta,Indonesia
+9100089,91KMAYP,Andhika,Yuda,Deli Serdang,Sumatera Utara,Indonesia
+9100090,91KMDAS,Dwi,Ariantoro,Bandung,Jawa Barat,Indonesia
+9100091,91KMAIM,Holil,Azmi,Pontianak,Kalimantan Barat,Indonesia
+9100092,91KMJOE ,Jhonatan,Molaka,Bantul,Yogyakarta,Indonesia
+9100093,91KMEZT,Juli,Rianto,Aceh Timur,Aceh,Indonesia
+9100094,91KMBBK,Benny,Kuswarto,Malang,Jawa Timur,Indonesia
+9100095,91KMDOR,Dodi,Oktarino,Tangerang Selata,Banten,Indonesia
+9100096,91KMACN,Anthoni,Cahyo,Bantul,Yogyakarta,Indonesia
+9100097,91KMAGP,Agus,Purwanto,Seruyan,Kalimantan Tenga,Indonesia
+9100098,91KMGRD,Husin,Hasan,Banyuwangi,Jawa Timur,Indonesia
+9100099,91KMBSA,Achmad,Abdullah,Malang,Jawa Timur,Indonesia
+9100100,91KMPBB,Agus,Sri,Surakarta,Jawa Tengah,Indonesia
+9100101,91KMONE,Irwan,Syarifuddi,Aceh Timur,Aceh,Indonesia
+9100102,91KMBTC,Raddy,Irmawan,Bandung,Jawa Barat,Indonesia
+9100103,91KMRDN,Raden,Hermano,Pelalawan,Riau,Indonesia
+9100104,91KMBDO,Hendrawan,Wijaya,Medan,Sumatera Utara,Indonesia
+9100105,91KMMAR,Mario,Aristo,Tangerang,Banten,Indonesia
+9100106,91KMUFO,Dworo,Udono,Bandar Lampung,Lampung,Indonesia
+9100107,91KMJON,Jonison,,Gunung Mas,Kalimantan Tenga,Indonesia
+9100108,91KMEKO,Eko,Widjaya,Jakarta Timur,Jakarta,Indonesia
+9100109,91KMNCI,Ariyanto,,Balikpapan,Kalimantan Timur,Indonesia
+9100110,91KMEWR,Esworo,,Sangatta,Kalimantan Timur,Indonesia
+9100111,91KMLRR,Iwan,Santoso,Jakarta Utara,Jakarta,Indonesia
+9100112,91KMIKA,Fx Arif,Arif,Bekasi,Jawa Barat,Indonesia
+9100113,91KMFEQ,Budi,Cahyadi,Bandung,Jawa Barat,Indonesia
+9100114,91KMBFB,Kuswandi,Arief,Batu Bara,Sumatera Utara,Indonesia
+9100115,91KMJLW,Jeffry,Leksmana,Jakarta Selatan,Jakarta,Indonesia
+9100116,91KMSAR,Abdul,Latif,Tangerang,Banten,Indonesia
+9100117,91KMAHG,Erwin,Irawan,Minahasa Tenggar,Sulawesi Utara,Indonesia
+9100118,91KMGAS,Alimin,Husain,Gorontalo,Gorontalo,Indonesia
+9100119,91KMBA,I Wayan ,Puja,Bangli,Bali,Indonesia
+9100120,91KMPAS,I Wayan ,Puja,Bangli,Bali,Indonesia
+9100121,91KMKVN,Kevin,Subakti,Tangerang,Banten,Indonesia
+9100122,91KMMAA,Mohammad,Afrizal,Tembagapura,Papua Tengah,Indonesia
+9100123,91KMPOL,Muhamad,Saleh,Tarakan,Kalimantan Utara,Indonesia
+9100124,91KMBUS,Nurdin,,Medan,Sumatera Utara,Indonesia
+9100125,91KMBRL,Syamsul,Arifin,Blitar,Jawa Timur,Indonesia
+9100126,91KMIIK,Soewito,,Malang,Jawa Timur,Indonesia
+9100127,91KMATZ,Angga,Firmansyah,Sukoharjo,Jawa Tengah,Indonesia
+9100128,91KMCAK,Satriya,Adi,Surabaya,Jawa Timur,Indonesia
+9100129,91KMCUK,Itmamul,Wafa,Surabaya,Jawa Timur,Indonesia
+9100130,91KMTNI,Didik,Nurhadi,Jakarta Selatan,Jakarta,Indonesia
+9100131,91KMWAR,Wartono,,Jakarta Selatan,Jakarta,Indonesia
+9100132,91KMBCW,Awang,Sumardi,Jambi,Jambi,Indonesia
+9100133,91KMKMK,Ade,Sena,Bandung Barat,Jawa Barat,Indonesia
+9100134,91KMJDM,Jamal,Daeng,Tanjung Jabung T,Jambi,Indonesia
+9100135,91KMDBS,Deny,Bayu,Cimahi,Jawa Barat,Indonesia
+9100136,91KMFQK,Muh.,Hafid,Jakarta Pusat,Jakarta,Indonesia
+9100137,91KMAPS,Agung,Priyo,Bandung Barat,Jawa Barat,Indonesia
+9100138,91KMEDB,Erry,Dirta,Badung,Bali,Indonesia
+9100139,91KMIWN,Iwan,Hermawan,Bekasi,Jawa Barat,Indonesia
+9100140,91KMBRY,B. Agus,Priaman,Jakarta Timur,Jakarta,Indonesia
+9100141,91KMWZ,Syahbandi,Rasyid,Banjarmasin,Kalimantan Selat,Indonesia
+9100142,91KMVOK,I Wayan,Raka,Tabanan,Bali,Indonesia
+9100143,91KMDKU,Dani,Agus,Jakarta Timur,Jakarta,Indonesia
+9100144,91KMAKA,Andhika,Akasse,Makassar,Sulawesi Selatan,Indonesia
+9100145,91KMNDY,Endy,,Medan,Sumatera Utara,Indonesia
+9100146,91KMABY,R. Budi,,Bandung,Jawa Barat,Indonesia
+9100147,91KMBCC,Jhonal,Thio,Manokwari,Papua Barat,Indonesia
+9100148,91KMERL,Erlangga,Saputra,Denpasar,Bali,Indonesia
+9100149,91KMJOY,Joko,Laksono,Sleman,Yogyakarta,Indonesia
+9100150,91KMALI,M. Aliyanto,,Tanjung Jabung T,Jambi,Indonesia
+9100151,91KMHNN,Abdul,Hanan,Tuban,Jawa Timur,Indonesia
+9100152,91KMBSM,Iwan,Hermawan,Bandung,Jawa Barat,Indonesia
+9100153,91KMRRI,Yusup,Suharno,Madiun,Jawa Timur,Indonesia
+9100154,91KMJOS,Glenn,Joshua,Jakarta Selatan,Jakarta,Indonesia
+9100155,91KMSAK,Adhi,Kurniawan,Kudus,Jawa Tengah,Indonesia
+9100156,91KMZEN,Akhmad,Zaini,Pamekasan,Jawa Timur,Indonesia
+9100157,91KMJAH,Jumadi,,Bener Meriah,Aceh,Indonesia
+9100158,91KMDWA,Dodik,Widya,Mojokerto,Jawa Timur,Indonesia
+9100159,91KMHHL,Luthfi,Herry,Depok,Jawa Barat,Indonesia
+9100160,91KMCOY,Saiful,Bahri,Jakarta Selatan,Jakarta,Indonesia
+9100161,91KMGBW,Asrarudin,,Sampit,Kalimantan Tenga,Indonesia
+9100162,91KMAGS,Agus,Setiawan,Deli Serdang,Sumatera Utara,Indonesia
+9100163,91KMDDF,Dhetyo,Dwiyoga,Jakarta Timur,Jakarta,Indonesia
+9100164,91KMDRO,Rimanto,,Pekanbaru,Riau,Indonesia
+9100165,91KMCRV,Muhammad,Haris,Medan,Sumatera Utara,Indonesia
+9100166,91KMLAY,Saidi,Ibrahim,Bekasi,Jawa Barat,Indonesia
+9100167,91KMGDE,Gde,Sardjana,Jakarta Timur,Jakarta,Indonesia
+9100168,91KMDED,Dede,Darmadi,Bangka,Kepulauan Bangka,Indonesia
+9100169,91KMBMM,Muhammad,Zaldi,Medan,Sumatera Utara,Indonesia
+9100170,91KMBAH,Rifki,,Padang,Sumatera Barat,Indonesia
+9100171,91KMAQW,I Wayan,Pongki,Jakarta Barat,Jakarta,Indonesia
+9100172,91KMRIS,Ardi,Risman,Bogor,Jawa Barat,Indonesia
+9100173,91KMNDJ,Syamsul,Alam,Pelalawan,Riau,Indonesia
+9100174,91KMASD,Okky,Satrya,Balikpapan,Kalimantan Timur,Indonesia
+9100175,91KMIEP,M.,Dani,Jambi,Jambi,Indonesia
+9100176,91KMNOC,Hendro,,Madiun,Jawa Timur,Indonesia
+9100177,91KMAVB,Putu,Wibawa,Bangli,Bali,Indonesia
+9100178,91KMBOB,Bobby,Tri,Sleman,Yogyakarta,Indonesia
+9100179,91KMBCG,Zulkarnain,,Medan,Sumatera Utara,Indonesia
+9100180,91KMRYZ,Efraim,Mowendu,Jayapura,Papua,Indonesia
+9100181,91KMKAF,Suprihandoyo,,Karimun,Kepulauan Riau,Indonesia
+9100182,91KMBRA,Rudi,Haryanto,Tangerang,Banten,Indonesia
+9100183,91KMAND,Andi,Prabowo,Lebak,Banten,Indonesia
+9100184,91KMSFI,Tatang,Safari,Jakarta Utara,Jakarta,Indonesia
+9100185,91KMBWI,Tri,Rumiadji,Banyuwangi,Jawa Timur,Indonesia
+9100186,91KMYUD,Hirmawan,Tirta,Buleleng,Bali,Indonesia
+9100187,91KMBSV,Nurhadi,,Madiun,Jawa Timur,Indonesia
+9100188,91KMCWW,Ibnu,Mustangin,Purworejo,Jawa Tengah,Indonesia
+9100189,91KMDWU,Samodra,Puspita,Purbalingga,Jawa Tengah,Indonesia
+9100190,91KMAFI,Imron,Hanafi,Serang,Banten,Indonesia
+9100191,91KMKQS,I Wayan,Agus,Bangli,Bali,Indonesia
+9100192,91KMPLW,Putu,Wibawa,Bangli,Bali,Indonesia
+9100193,91KMLTF,Muhammad,Amirudi,Musi Banyuasin,Sumatera Selatan,Indonesia
+9100194,91KMEBH,Eko,Puji,Indramayu,Jawa Barat,Indonesia
+9100195,91KMAWI,Asmawi,,Kolaka ,Sulawesi Tenggar,Indonesia
+9100196,91KMLEN,Sonny,Arlen,Jambi,Jambi,Indonesia
+9100197,91KMFRM,Fahrur,Rozi,Jakarta Selatan,Jakarta,Indonesia
+9100198,91KMEUP,Yusup,Suharno,Madiun ,Jawa Timur,Indonesia
+9100199,91KMANW,Wawan,Hariyanto,Malang,Jawa Timur,Indonesia
+9100200,91KMDDB,I Wayan,Somajaya,Klungkung,Bali,Indonesia
+9100201,91KMVWI,Ii,Dadang,Bandung,Jawa Barat,Indonesia
+9100202,91KMBDR,Listyo,Waryadi,Tangerang,Banten,Indonesia
+9100203,91KMDMZ,Sri,Adhi,Indragiri Hilir,Riau,Indonesia
+9100204,91KMKEI,Andreas,Basuki,Jember,Jawa Timur,Indonesia
+9100205,91KMDIO,Hermanto,,Indragiri Hilir,Riau,Indonesia
+9100206,91KMCYO,Agung,Cahyo,Badung,Bali,Indonesia
+9100207,91KMPLG,I Made ,Sutrisna,Bangli,Bali,Indonesia
+9100208,91KMSFR,Fikri,Riza,Jambi,Jambi,Indonesia
+9100209,91KMZYN,Prima,Wibawa,Tasikmalaya,Jawa Barat,Indonesia
+9100210,91KMABP,Andri,Budi,Tasikmalaya,Jawa Barat,Indonesia
+9100211,91KMNNN,Nandang,Nugraha,Bandung,Jawa Barat,Indonesia
+9100212,91KMCXN,Ginanjar,Eko,Cirebon,Jawa Barat,Indonesia
+9100213,91KMTSC,Sandy,Simarmata,Batu Bara,Sumatera Utara,Indonesia
+9100214,91KMVAN,Ibnu,Affan,Jakarta Selatan,Jakarta,Indonesia
+9100215,91KMFOX,Toni,Butar,Sidoarjo,Jawa Timur,Indonesia
+9100216,91KMETC,Aditya,Pransanta,Palangkaraya,Kalimantan Tenga,Indonesia
+9100217,91KMCSW,Parulian,Sihombi,Bandung,Jawa Barat,Indonesia
+9100218,91KMMSI,Marcus,Silooy,Wamena,Papua Pegunungan,Indonesia
+9100219,91KMEDW,Edwin,Fedelys,Bengkayang,Kalimantan Barat,Indonesia
+9100220,91KMNDO,Bambang,Suryaput,Jakarta Timur,Jakarta,Indonesia
+9100221,91KMVNT,Edi,Prihanto,Jakarta Utara,Jakarta,Indonesia
+9100222,91KMEOC,Pusdalops,Bnpb,Jakarta,Indonesia,Indonesia
+9100223,91KMSPR,Sapridi,,Tanjung Pinang,Kepulauan Riau,Indonesia
+9100224,91KMLHA,Moch,Lukman,Jakarta Timur,Jakarta,Indonesia
+9100225,91KMRHR,Reykaz,Hafidzh,Tasikmalaya,Jawa Barat,Indonesia
+9100226,91KMMJS,Muhammad,Jou,Tasikmalaya,Jawa Barat,Indonesia
+9100227,91KMBLC,Bernadus,Wisnu,Denpasar,Bali,Indonesia
+9100228,91KMHGA,Tjetjep,Rony,Karawang,Jawa Barat,Indonesia
+9100229,91KMDHS,Dhony,Harto,Purbalingga,Jawa Tengah,Indonesia
+9100230,91KMSAD,Sadjiman,,Jakarta Selatan,Jakarta,Indonesia
+9100231,91KMHAI,Enjuh,,Jakarta Pusat,Jakarta,Indonesia
+9100232,91KMAPY,M. Syofyan,,Indragiri Hilir,Riau,Indonesia
+9100233,91KMNTB,Wajedi,,Mataram,Nusa Tenggara Ba,Indonesia
+9100234,91KMDGT,I Komang,Sumerta,Gianyar,Bali,Indonesia
+9100235,91KMBVF,Saiful,Amri,Aceh Timur,Aceh,Indonesia
+9100236,91KMAUE,Saiful,Aswad,Aceh Timur,Aceh,Indonesia
+9100237,91KMDOM,Jaya,Anthoni,Aceh Timur,Aceh,Indonesia
+9100238,91KMIMA,Ismail,Marzuki,Pemalang,Jawa Tengah,Indonesia
+9100239,91KMBGM,Budi,Santosa,Blora,Jawa Tengah,Indonesia
+9100240,91KMBWV,Muhammad,Helmi,Jakarta Pusat,Jakarta,Indonesia
+9100241,91KMRDY,Rudy,Dwiantoro,Badung,Bali,Indonesia
+9100242,91KMGBB,Heru,Soesanto,Badung,Bali,Indonesia
+9100243,91KMQZY,Suprapto,,Blora,Jawa Tengah,Indonesia
+9100244,115KMADI,Muqthadi,Ramli,Doha,Qatar,Indonesia
+9100245,91KMXXX,Ergamicel,,Padang,Sumatera Barat,Indonesia
+9100246,91KMEBP,Eko,Zulmi,Bogor,Jawa Barat,Indonesia
+9100247,91KMONI,Fony,Istanto,Banyuwangi,Jawa Timur,Indonesia
+9100248,91KMKKR,Nasrun,,Kubu Raya,Kalimantan Barat,Indonesia
+9100249,91KMRST,Restu,Dwi,Klaten,Jawa Tengah,Indonesia
+9100250,91KMASH,Iwan,Nugroho,Jakarta Utara,Jakarta,Indonesia
+9100251,91KMAQL,Idji,Priatna,Tasikmalaya,Jawa Barat,Indonesia
+9100252,91KMALP,Fakri,Saputra,Banda Aceh,Aceh,Indonesia
+9100253,91KMEWB,Erik,Sugiharto,Gresik,Jawa Timur,Indonesia
+9100254,91KMJND,Muhamad,Juanda,Boyolali,Jawa Tengah,Indonesia
+9100255,91KMAZD,Rahmat,Suyatna,Serang,Banten,Indonesia
+9100256,91KMAWF,Sugeng,Haryanto,Bandung,Jawa Barat,Indonesia
+9100257,91KMJAB,Koko,Allan,Sleman,Yogyakarta,Indonesia
+9100258,91KMAAS,Aser,,Mamasa,Sulawesi Barat,Indonesia
+9100259,91KMCMP,Tan,Randy,Surabaya,Jawa Timur,Indonesia
+9100260,91KMBGA,I Made ,Agus,Buleleng,Bali,Indonesia
+9100261,91KMAPR,Handy,Widjaja,Jakarta Utara,Jakarta,Indonesia
+9100262,91KMKMA,M. Awab,,Jakarta Selatan,Jakarta,Indonesia
+9100263,91KMBCQ,Ki Agus,Yasser,Kutai Barat,Kalimantan Timur,Indonesia
+9100264,91KMRCC,Rokhmani,,Cilegon,Banten,Indonesia
+9100265,91KMVKI,M. Viki,,Tangerang,Banten,Indonesia
+9100266,91KMAIR,Amiruddin,,Buton Tengah,Sulawesi Tenggar,Indonesia
+9100267,91KMACL,Marshel,Reyky,Jakarta Selatan,Jakarta,Indonesia
+9100268,91KMBOY,Dwi,Santoso,Pontianak,Kalimantan Barat,Indonesia
+9100269,91KMBBO,Nengah,Hartana,Bangli,Bali,Indonesia
+9100270,91KMVOC,Rony,Robianto,Jakarta Barat,Jakarta,Indonesia
+9100271,91KMOKO,Jaka,Satmoko,Kulon Progo,Yogyakarta,Indonesia
+9100272,91KMDBF,Marcus,Welly,Bekasi,Jawa Barat,Indonesia
+9100273,91KMANA,Anang,Hidayat,Sleman,Yogyakarta,Indonesia
+9100274,91KMOZL,Fakhrurrazi,,Aceh Timur,Aceh,Indonesia
+9100275,91KMSSS,Sumadi,,Sleman,Yogyakarta,Indonesia
+9100276,91KMAMQ,Daniel,Anthoni,Ambon,Maluku,Indonesia
+9100277,91KMYES,Partha,,Gianyar,Bali,Indonesia
+9100278,91KMGSM,Suharto,,Tangerang,Banten,Indonesia
+9100279,91KMSKY,Sefi,Khirijil,Cirebon,Jawa Barat,Indonesia
+9100280,91KMPUG,Puguh,Ardhianto,Sidoarjo,Jawa Timur,Indonesia
+9100281,91KMSAT,Satria,Ramadhan,Purwokerto,Jawa Tengah,Indonesia
+9100282,91KMGRW,Sudiharto,,Kebumen,Jawa Tengah,Indonesia
+9100283,91KMEDI,Andreas,Edi,Buleleng,Bali,Indonesia
+9100284,91KMSIP,Hasan,,Jakarta Utara,Jakarta,Indonesia
+9100285,91KMVSM,M. Irvan,,Kutai Timur,Kalimantan Timur,Indonesia
+9100286,91KMSSC,I Gede,Agung,Denpasar,Bali,Indonesia
+9100287,91KMSFD,Sayid,Fuad,Balikpapan,Kalimantan Timur,Indonesia
+9100288,91KMGVA,Simon,Sipeng,Kubu Raya,Kalimantan Barat,Indonesia
+9100289,91KMABG,Bambang,Rudianto,Mimika,Papua Tengah,Indonesia
+9100290,91KMCBR,Indra,Iswara,Bekasi,Jawa Barat,Indonesia
+9100291,91KMMWD,Mulyo,Widodo,Malang,Jawa Timur,Indonesia
+9100292,91KMGRT,Saripudin,,Garut,Jawa Barat,Indonesia
+9100293,91KMABI,Sefi,Khirijil,Cirebon,Jawa Barat,Indonesia
+9100294,91KMIGO,Edy,Pamungkas,Jakarta Selatan,Jakarta,Indonesia
+9100295,91KMRYN,Ryan,Thamrin,Jayapura,Papua,Indonesia
+9100296,91KMZZZ,Lambertus,Dwiono,Semarang,Jawa Tengah,Indonesia
+9100297,91KMHRO,Hariyanto,,Pamekasan,Jawa Timur,Indonesia
+9100298,91KMHWT,Adin,Fachrudin,Depok,Jawa Barat,Indonesia
+9100299,91KMAGO,Agus,Suprayitno,Cirebon,Jawa Barat,Indonesia
+9100300,91KMFOG,Sigit,Tri,Bogor,Jawa Barat,Indonesia
+9100301,91KMILP,Irianto,Labisa,Mimika,Papua Tengah,Indonesia
+9100302,91KMTPF,Dodi,Haryanto,Tangerang,Banten,Indonesia
+9100303,91KMABB,Muhammad,Ishaq,Lumajang,Jawa Timur,Indonesia
+9100304,91KMGDS,Fajar,Gumilar,Tasikmalaya,Jawa Barat,Indonesia
+9100305,91KMAWL,Awaluddin,Yunus,Luwu Timur,Sulawesi Selatan,Indonesia
+9100306,91KMAZA,Ahmad,Reza,Tangerang,Banten,Indonesia
+9100307,91KMRCF,Rudi,Hartono,Jakarta Timur,Jakarta,Indonesia
+9100308,91KMJEF,Jeffri,Roni,Banda Aceh,Aceh,Indonesia
+9100309,91KMCAY,Willy,Ismantry,Jakarta Timur,Jakarta,Indonesia
+9100310,91KMRZL,Syafrizal,Affard,Bandung,Jawa Barat,Indonesia
+9100311,91KMFYK,Paiman,,Lampung Tengah,Lampung,Indonesia
+9100312,91KMSGT,Pradhana,Nugraha,Tangerang Selata,Banten,Indonesia
+9100313,91KMBYU,C. Bayu,Aji,Bantul,Yogyakarta,Indonesia
+9100314,91KMRU,Rimon,Usman,Pekanbaru,Riau,Indonesia
+9100315,91KMAGN,Agung,Sudarmanto,Jakarta Pusat,Jakarta,Indonesia
+9100316,91KMBXB,Lilik,Prayitno,Jakarta Barat,Jakarta,Indonesia
+9100317,91KMUYA,Ahyar,Asdin,Kutai Timur,Kalimantan Timur,Indonesia
+9100318,91KMHDS,Hadi,Susanto,Aceh Besar,Aceh,Indonesia
